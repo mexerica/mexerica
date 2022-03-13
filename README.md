@@ -6,7 +6,7 @@
    <a href="https://gifer.com/pt/6o0">
     <img height = " 50cm" src="https://i.gifer.com/origin/2b/2b047e4d200321cef2a506baa878f457.gif"/>
    <a/>
-   <img height = " 20cm" src= "https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.mererica">
+   <img height = " 30cm" src= "https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.mererica">
  </div>
 
 <!--
