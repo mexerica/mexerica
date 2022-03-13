@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div>
+  <img height = "180cm" src= "https://github-readme-stats.vercel.app/api?username=mexerica&theme=vision-friendly-dark&show_icons=true" />
+  <img height = "180cm" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mexerica&layout=compact&theme=vision-friendly-dark" />
+ </div>
+
 <!--
 **mexerica/mexerica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
