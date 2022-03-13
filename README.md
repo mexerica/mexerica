@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 <div>
-  <a href="https://gifer.com/pt/6o0" />
   <img height = "180cm" src= "https://github-readme-stats.vercel.app/api?username=mexerica&theme=vision-friendly-dark&show_icons=true" />
   <img height = "180cm" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mexerica&layout=compact&theme=vision-friendly-dark" />
-  <img height = " 50cm" src="https://i.gifer.com/origin/2b/2b047e4d200321cef2a506baa878f457.gif" />
+   <a href="https://gifer.com/pt/6o0">
+    <img height = " 50cm" src="https://i.gifer.com/origin/2b/2b047e4d200321cef2a506baa878f457.gif" />
+   <a/>
  </div>
 
 <!--
